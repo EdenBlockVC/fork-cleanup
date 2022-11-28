@@ -16,7 +16,7 @@ This is a simple script to cleanup your forked repositories which have no additi
 - Metadata: Read-only
 - Pull requests: Read-only
 
-2. Add the token to your `.env` file to `GITHUB_ACCESS_TOKEN`.
+2. Add the token to your `.env` file as `GITHUB_ACCESS_TOKEN`.
 
 3. Create a local virtual environment and install the requirements:
 
