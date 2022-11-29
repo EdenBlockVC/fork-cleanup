@@ -2,7 +2,7 @@
 
 ⚠️ This project does destructive actions on your GitHub profile. Use at your own risk. ⚠️
 
-This is a simple script to cleanup your forked repositories which have no additional commits. Because GitHub introduced additional limits to the free accounts, it makes sense to do some housekeeping.
+This is a simple script to delete your forked repositories which have no additional commits. Because GitHub introduced additional limits to the free accounts, it makes sense to do some housekeeping.
 
 ## Setup
 
